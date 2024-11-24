@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Unhappiness Nerf",
-		"cost": 0,
+		"cost": 1,
 		"uniques": "[100]% [Unhappiness] from all [Population] [in all cities] <for [AI players]>"
 	},
 	{
